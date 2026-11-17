@@ -17,16 +17,6 @@ Then open the local URL shown in the terminal, usually:
 http://localhost:8501
 ```
 
-## Deploy to Streamlit Cloud
-
-1. Push this repo to GitHub.
-2. Sign in to Streamlit Cloud.
-3. Select "New app".
-4. Choose this repository.
-5. Set the app file to `app.py`.
-6. Deploy.
-
-The app will run with the dependencies from `requirements.txt`.
 
 ## Notes
 
